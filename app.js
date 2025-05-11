@@ -1,5 +1,3 @@
-// updated
-
 const p1Button =  document.querySelector('#p1btn');
 const p2Button =  document.querySelector('#p2btn');
 const resetButton = document.querySelector('#resetbtn')
