@@ -58,4 +58,4 @@ ScoreKeeper is built using simple **HTML**, **CSS**, and **JavaScript**. It's a 
 
 ---
 
-Feel free to replace or add any additional sections like "Screenshots" or "Demo Links" if you have visuals or live examples to share! Let me know if you'd like further adjustments.
+
